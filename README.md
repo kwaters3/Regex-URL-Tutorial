@@ -25,12 +25,12 @@ A regex, which is short for `regular expression`, is a sequence of characters th
  
  ## Installation
  #### To install the given application:
-  * No need to install - [Click Here](./Develop/gist-template.md) to view the content. 
+  * No need to install - [Click Here](./Develop/gist.md) to view the content. 
    
  
  ## Usage
  #### How to use the application:
-  * [Open](./Develop/gist-template.md) the folder to view the content inside.
+  * [Open](./Develop/gist.md) the folder to view the content inside.
   * The `gist.md` folder will provide you with a Regex-URL-tutorial.
   * Follow & Explore the content inside the folder to learn more about using Regex-URL.
   
