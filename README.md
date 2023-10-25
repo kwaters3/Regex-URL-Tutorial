@@ -18,21 +18,20 @@ A regex, which is short for `regular expression`, is a sequence of characters th
  
  
  ## Visuals
- #### Click on the image below to reveal the deployed app:
+ #### Click on the image below to reveal the Gist:
 
  [![Screenshot](./Assets/images/Screenshot_2023-10-23_19-40-51.png)](https://kwaters3.github.io/Weather-App/)
  
  
  ## Installation
  #### To install the given application:
-  * No need to install - [Click Here](./Develop/gist.md) to view the content. 
+  * No need to install - [Click Here](https://gist.github.com/kwaters3/845518383281068ce71db4ccfcf00bf7) to view the content. 
    
  
  ## Usage
  #### How to use the application:
-  * [Open](./Develop/gist.md) the folder to view the content inside.
-  * The `gist.md` folder will provide you with a Regex-URL-tutorial.
-  * Follow & Explore the content inside the folder to learn more about using Regex-URL.
+  * [Open](https://gist.github.com/kwaters3/845518383281068ce71db4ccfcf00bf7) the Gist to view the content inside.
+  * This GitHub Gist will provide you with a Regex-URL-Matching-tutorial.
   
 
  
