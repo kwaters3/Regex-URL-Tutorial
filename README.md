@@ -37,7 +37,8 @@ A regex, which is short for `regular expression`, is a sequence of characters th
 
  
  ## License
-   This project is covered under the following license: [![License](https://img.shields.io/badge/License-MIT-turquoise.svg)](https://opensource.org/licenses/MIT)
+   This project is covered under the following license: <br/> 
+   [![License](https://img.shields.io/badge/License-MIT-turquoise.svg)](https://opensource.org/licenses/MIT)
  
  ## Contribution
    One can contribute by cloning the repo from the github page, adding a new branch, and pushing changes to the main branch. 
