@@ -9,18 +9,11 @@ A regex, which is short for `regular expression`, is a sequence of characters th
 
 ## Table of Contents
    * [Description](#description)
-   * [Visuals](#visuals)  
    * [Installation](#installation)
    * [Usage](#usage)
    * [License](#license)
    * [Contribution](#contribution)
    * [Questions](#questions)
- 
- 
- ## Visuals
- #### Click on the image below to reveal the Gist:
-
- [![Screenshot](./Assets/images/Screenshot_2023-10-23_19-40-51.png)](https://kwaters3.github.io/Weather-App/)
  
  
  ## Installation
